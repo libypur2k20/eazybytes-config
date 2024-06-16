@@ -6,7 +6,7 @@ loans:
   message: "Welcome to EazyBank loans related PROD APIs"
   contactDetails:
     name: "John Production - Loans"
-    email: "john_prod_loans@eazybank.com"
+    email: "{cipher}eded5b035d60ef854d403c30ceb957e5ab7627d0b4543903e91d932927c6cff237e1144712b0f7de01f2c350b87f44e6"
   onCallSupport:
     - (123) 555-1234
     - (456) 523-1345
