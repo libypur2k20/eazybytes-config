@@ -6,7 +6,7 @@ cards:
   message: "Welcome to EazyBank cards related QA APIs"
   contactDetails:
     name: "John QA"
-    email: "john_qa@eazybank.com"
+    email: "{cipher}7399b3c214bf01f11211ad6346037fd9c7c3d050e4dd260257b6e576fe7b324febbda37229f57b3235b3fe99b4272d57"
   onCallSupport:
     - (111) 555-1234
     - (222) 523-1345
