@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank cards related PROD APIs"
+  message: "Welcome to EazyBank cards related PRODUCTION APIs"
   contactDetails:
     name: "John Production"
     email: "{cipher}2296a283ea201c39dff8ca8ba9075c3dcfd38af23ddf6cc757ce29a18d16ff29380eb6f7d6f56e60221fc73a38a9776c"
